@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apassionado
 - 👀 I’m interested in full-stack programming
-- 🌱 I’m currently learning web-developmentwith Python at Hexlet
+- 🌱 I’m currently learning web-development with Python at Hexlet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
